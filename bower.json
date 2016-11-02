@@ -1,0 +1,22 @@
+{
+  "name": "show-local-weather",
+  "description": "A simple web app to show the local Weather.",
+  "main": "index.html",
+  "authors": [
+    "Kevin Rodriguez"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/kevin2r/show-local-weather",
+  "moduleType": [
+    "node"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test"
+  ],
+  "dependencies": {
+
+  }
+}
